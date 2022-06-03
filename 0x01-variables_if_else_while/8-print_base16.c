@@ -1,6 +1,6 @@
 /*
 * File: 8-print_base16.c
-* Auth: Brennan D Baraban
+* Auth: Maureen Ndinda
 */
 
 #include <stdio.h>
