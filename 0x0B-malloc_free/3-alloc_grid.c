@@ -44,4 +44,4 @@ int **alloc_grid(int width, int height)
 © 2022 GitHub, Inc.
 Footer navigation
 Terms
-[A[C[C[C[A[C[C[C[C[C[C[C[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C
+[A[C[[A[C[C[C[C[C[C[C[C[C[C[[A[C[C[C[C[C[C[C[C[C[C[C[C
