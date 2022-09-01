@@ -1,4 +1,3 @@
-
 #include "lists.h"
 
 /**
@@ -39,4 +38,4 @@ dlistint_t *add_dnodeint_end(dlistint_t **head, const int n)
 	end->next = list;
 
 	return (list);
-}[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[C
+}
